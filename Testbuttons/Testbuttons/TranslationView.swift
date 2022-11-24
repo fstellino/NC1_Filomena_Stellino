@@ -73,17 +73,16 @@ struct TranslationView: View {
 
 
 
-struct DropDown : View {
-    var body: some View {
-        VStack {
+//struct DropDown : View {
+    //var body: some View {
+       // VStack {
             
             //HStack {
                // Text("Expand").frontweight(.heavy)
-               // Image(systemName: "chevron.down")
-            }
-        }
+               // Image(systemName: "chevron.down")}
+       // }
         
-    }
+    //}
     
 
 
